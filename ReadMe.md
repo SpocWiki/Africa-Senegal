@@ -111,8 +111,8 @@ id: Senegal
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Senegal//
-markerFolder: ./Senegal//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Senegal] 
