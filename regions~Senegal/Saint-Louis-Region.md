@@ -40,11 +40,18 @@ markerFolder: ./Saint-Louis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Saint-Louis|Saint-Louis]] 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Saint-Louis.public|Saint-Louis.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Saint-Louis.internal|Saint-Louis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Saint-Louis.protect|Saint-Louis.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Saint-Louis.private|Saint-Louis.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Saint-Louis.personal|Saint-Louis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Saint-Louis.secret|Saint-Louis.secret]] 
+
+### #is_/same_as :: [Saint-Louis-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.md) 
+
+### #is_/same_as :: [Saint-Louis-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.public.md) 
+
+### #is_/same_as :: [Saint-Louis-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.internal.md) 
+
+### #is_/same_as :: [Saint-Louis-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.protect.md) 
+
+### #is_/same_as :: [Saint-Louis-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.private.md) 
+
+### #is_/same_as :: [Saint-Louis-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.personal.md) 
+
+### #is_/same_as :: [Saint-Louis-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Louga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Louga|Louga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Louga.public|Louga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Louga.internal|Louga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Louga.protect|Louga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Louga.private|Louga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Louga.personal|Louga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Louga.secret|Louga.secret]] 
+
+### #is_/same_as :: [Louga-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Louga-Region.md) 
+
+### #is_/same_as :: [Louga-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Louga-Region.public.md) 
+
+### #is_/same_as :: [Louga-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Louga-Region.internal.md) 
+
+### #is_/same_as :: [Louga-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Louga-Region.protect.md) 
+
+### #is_/same_as :: [Louga-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Louga-Region.private.md) 
+
+### #is_/same_as :: [Louga-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Louga-Region.personal.md) 
+
+### #is_/same_as :: [Louga-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Louga-Region.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Kaffrine/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Kaffrine|Kaffrine]] 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Kaffrine.public|Kaffrine.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Kaffrine.internal|Kaffrine.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Kaffrine.protect|Kaffrine.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Kaffrine.private|Kaffrine.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Kaffrine.personal|Kaffrine.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Kaffrine.secret|Kaffrine.secret]] 
+
+### #is_/same_as :: [Kaffrine-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.md) 
+
+### #is_/same_as :: [Kaffrine-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.public.md) 
+
+### #is_/same_as :: [Kaffrine-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.internal.md) 
+
+### #is_/same_as :: [Kaffrine-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.protect.md) 
+
+### #is_/same_as :: [Kaffrine-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.private.md) 
+
+### #is_/same_as :: [Kaffrine-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.personal.md) 
+
+### #is_/same_as :: [Kaffrine-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.secret.md)
 

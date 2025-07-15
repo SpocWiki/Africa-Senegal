@@ -40,11 +40,18 @@ markerFolder: ./Diourbel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Diourbel|Diourbel]] 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Diourbel.public|Diourbel.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Diourbel.internal|Diourbel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Diourbel.protect|Diourbel.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Diourbel.private|Diourbel.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Diourbel.personal|Diourbel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Diourbel.secret|Diourbel.secret]] 
+
+### #is_/same_as :: [Diourbel-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Diourbel-Region.md) 
+
+### #is_/same_as :: [Diourbel-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Diourbel-Region.public.md) 
+
+### #is_/same_as :: [Diourbel-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Diourbel-Region.internal.md) 
+
+### #is_/same_as :: [Diourbel-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Diourbel-Region.protect.md) 
+
+### #is_/same_as :: [Diourbel-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Diourbel-Region.private.md) 
+
+### #is_/same_as :: [Diourbel-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Diourbel-Region.personal.md) 
+
+### #is_/same_as :: [Diourbel-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Diourbel-Region.secret.md)
 

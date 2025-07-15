@@ -40,11 +40,18 @@ markerFolder: ./Kaolack/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Kaolack|Kaolack]] 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Kaolack.public|Kaolack.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Kaolack.internal|Kaolack.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Kaolack.protect|Kaolack.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Kaolack.private|Kaolack.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Kaolack.personal|Kaolack.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Kaolack.secret|Kaolack.secret]] 
+
+### #is_/same_as :: [Kaolack-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaolack-Region.md) 
+
+### #is_/same_as :: [Kaolack-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaolack-Region.public.md) 
+
+### #is_/same_as :: [Kaolack-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaolack-Region.internal.md) 
+
+### #is_/same_as :: [Kaolack-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaolack-Region.protect.md) 
+
+### #is_/same_as :: [Kaolack-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaolack-Region.private.md) 
+
+### #is_/same_as :: [Kaolack-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaolack-Region.personal.md) 
+
+### #is_/same_as :: [Kaolack-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaolack-Region.secret.md)
 

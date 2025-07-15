@@ -40,11 +40,18 @@ markerFolder: ./Ziguinchor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Ziguinchor|Ziguinchor]] 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Ziguinchor.public|Ziguinchor.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Ziguinchor.internal|Ziguinchor.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Ziguinchor.protect|Ziguinchor.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Ziguinchor.private|Ziguinchor.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Ziguinchor.personal|Ziguinchor.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Ziguinchor.secret|Ziguinchor.secret]] 
+
+### #is_/same_as :: [Ziguinchor-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.md) 
+
+### #is_/same_as :: [Ziguinchor-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.public.md) 
+
+### #is_/same_as :: [Ziguinchor-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.internal.md) 
+
+### #is_/same_as :: [Ziguinchor-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.protect.md) 
+
+### #is_/same_as :: [Ziguinchor-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.private.md) 
+
+### #is_/same_as :: [Ziguinchor-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.personal.md) 
+
+### #is_/same_as :: [Ziguinchor-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.secret.md)
 

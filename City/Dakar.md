@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/City/Dakar|Dakar]] 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/City/Dakar.public|Dakar.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/City/Dakar.internal|Dakar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/City/Dakar.protect|Dakar.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/City/Dakar.private|Dakar.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/City/Dakar.personal|Dakar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/City/Dakar.secret|Dakar.secret]] 
+
+### #is_/same_as :: [Dakar](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/City/Dakar.md) 
+
+### #is_/same_as :: [Dakar.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/City/Dakar.public.md) 
+
+### #is_/same_as :: [Dakar.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/City/Dakar.internal.md) 
+
+### #is_/same_as :: [Dakar.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/City/Dakar.protect.md) 
+
+### #is_/same_as :: [Dakar.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/City/Dakar.private.md) 
+
+### #is_/same_as :: [Dakar.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/City/Dakar.personal.md) 
+
+### #is_/same_as :: [Dakar.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/City/Dakar.secret.md)
+

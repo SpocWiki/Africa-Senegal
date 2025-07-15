@@ -40,11 +40,18 @@ markerFolder: ./Kolda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Kolda|Kolda]] 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Kolda.public|Kolda.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Kolda.internal|Kolda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Kolda.protect|Kolda.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Kolda.private|Kolda.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Kolda.personal|Kolda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Kolda.secret|Kolda.secret]] 
+
+### #is_/same_as :: [Kolda-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kolda-Region.md) 
+
+### #is_/same_as :: [Kolda-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kolda-Region.public.md) 
+
+### #is_/same_as :: [Kolda-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kolda-Region.internal.md) 
+
+### #is_/same_as :: [Kolda-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kolda-Region.protect.md) 
+
+### #is_/same_as :: [Kolda-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kolda-Region.private.md) 
+
+### #is_/same_as :: [Kolda-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kolda-Region.personal.md) 
+
+### #is_/same_as :: [Kolda-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kolda-Region.secret.md)
 

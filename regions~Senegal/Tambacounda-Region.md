@@ -40,11 +40,18 @@ markerFolder: ./Tambacounda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Tambacounda|Tambacounda]] 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Tambacounda.public|Tambacounda.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Tambacounda.internal|Tambacounda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Tambacounda.protect|Tambacounda.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Tambacounda.private|Tambacounda.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Tambacounda.personal|Tambacounda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Tambacounda.secret|Tambacounda.secret]] 
+
+### #is_/same_as :: [Tambacounda-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.md) 
+
+### #is_/same_as :: [Tambacounda-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.public.md) 
+
+### #is_/same_as :: [Tambacounda-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.internal.md) 
+
+### #is_/same_as :: [Tambacounda-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.protect.md) 
+
+### #is_/same_as :: [Tambacounda-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.private.md) 
+
+### #is_/same_as :: [Tambacounda-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.personal.md) 
+
+### #is_/same_as :: [Tambacounda-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.secret.md)
 

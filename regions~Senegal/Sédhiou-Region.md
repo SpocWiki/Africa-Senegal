@@ -40,11 +40,18 @@ markerFolder: ./Sédhiou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Sédhiou|Sédhiou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Sédhiou.public|Sédhiou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Sédhiou.internal|Sédhiou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Sédhiou.protect|Sédhiou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Sédhiou.private|Sédhiou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Sédhiou.personal|Sédhiou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Sédhiou.secret|Sédhiou.secret]] 
+
+### #is_/same_as :: [Sédhiou-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.md) 
+
+### #is_/same_as :: [Sédhiou-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.public.md) 
+
+### #is_/same_as :: [Sédhiou-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.internal.md) 
+
+### #is_/same_as :: [Sédhiou-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.protect.md) 
+
+### #is_/same_as :: [Sédhiou-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.private.md) 
+
+### #is_/same_as :: [Sédhiou-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.personal.md) 
+
+### #is_/same_as :: [Sédhiou-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.secret.md)
 

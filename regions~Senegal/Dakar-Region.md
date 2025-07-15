@@ -40,11 +40,18 @@ markerFolder: ./Dakar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Dakar|Dakar]] 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Dakar.public|Dakar.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Dakar.internal|Dakar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Dakar.protect|Dakar.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Dakar.private|Dakar.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Dakar.personal|Dakar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Dakar.secret|Dakar.secret]] 
+
+### #is_/same_as :: [Dakar-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Dakar-Region.md) 
+
+### #is_/same_as :: [Dakar-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Dakar-Region.public.md) 
+
+### #is_/same_as :: [Dakar-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Dakar-Region.internal.md) 
+
+### #is_/same_as :: [Dakar-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Dakar-Region.protect.md) 
+
+### #is_/same_as :: [Dakar-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Dakar-Region.private.md) 
+
+### #is_/same_as :: [Dakar-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Dakar-Region.personal.md) 
+
+### #is_/same_as :: [Dakar-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Dakar-Region.secret.md)
 

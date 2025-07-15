@@ -134,10 +134,4 @@ Capital :: [[Dakar]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Senegal|Senegal]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Senegal.internal|Senegal.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Senegal.protect|Senegal.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Senegal.private|Senegal.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Senegal.personal|Senegal.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Senegal.secret|Senegal.secret]] 
+

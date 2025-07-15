@@ -40,11 +40,18 @@ markerFolder: ./Kédougou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Senegal/Counties/Kédougou|Kédougou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Senegal/Counties/Kédougou.public|Kédougou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Senegal/Counties/Kédougou.internal|Kédougou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Senegal/Counties/Kédougou.protect|Kédougou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Senegal/Counties/Kédougou.private|Kédougou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Senegal/Counties/Kédougou.personal|Kédougou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Senegal/Counties/Kédougou.secret|Kédougou.secret]] 
+
+### #is_/same_as :: [Kédougou-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.md) 
+
+### #is_/same_as :: [Kédougou-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.public.md) 
+
+### #is_/same_as :: [Kédougou-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.internal.md) 
+
+### #is_/same_as :: [Kédougou-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.protect.md) 
+
+### #is_/same_as :: [Kédougou-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.private.md) 
+
+### #is_/same_as :: [Kédougou-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.personal.md) 
+
+### #is_/same_as :: [Kédougou-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.secret.md)
 
