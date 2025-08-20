@@ -1,39 +1,40 @@
 ---
 location:
-- 14.435
-- -17.125
+  - 14.435
+  - -17.125
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27021
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Senegal
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Senegal
-- Sénégal
-- السنغال
-- 塞内加尔
-- Сенегал
-- the Republic of Senegal
-- la República del Senegal
-- Senegal (el)
+  - Senegal
+  - Sénégal
+  - السنغال
+  - 塞内加尔
+  - Сенегал
+  - the Republic of Senegal
+  - la República del Senegal
+  - Senegal (el)
 Languages:
-- fr-SN
-- wo
-- fuc
-- mnk
+  - fr-SN
+  - wo
+  - fuc
+  - mnk
 ---
 
 
