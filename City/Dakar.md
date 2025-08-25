@@ -1,17 +1,23 @@
 ---
-location: [14.7,-17.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 14.7
+  - -17.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29709
 isDeleted: false
 confidential: public
-
+aliases:
+has_id_wikidata: Q3718
 ---
+
+# [[Dakar]] 
+
 [geo-lon::-17.4] 
 [geo-lat::14.7] 
 [name::Dakar] 
@@ -21,6 +27,9 @@ Country :: [[Senegal]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../WikiData/WD~Dakar,3718|WD~Dakar,3718]] 
+
+## #has_/map  
 
 ```leaflet
 id: Dakar
