@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joal](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal|Joal]] 
 
-### #is_/same_as :: [Joal.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.public|Joal.public]] 
 
-### #is_/same_as :: [Joal.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.internal|Joal.internal]] 
 
-### #is_/same_as :: [Joal.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.protect|Joal.protect]] 
 
-### #is_/same_as :: [Joal.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.private|Joal.private]] 
 
-### #is_/same_as :: [Joal.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.personal|Joal.personal]] 
 
-### #is_/same_as :: [Joal.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region/City/Joal.secret|Joal.secret]] 
 

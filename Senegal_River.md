@@ -66,3 +66,20 @@ Wolfram_Language_entity_code: Entity["River", "SenegalRiver::8q246"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Senegal%20River) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal/Senegal_River|Senegal_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal/Senegal_River.public|Senegal_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal/Senegal_River.internal|Senegal_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal/Senegal_River.protect|Senegal_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal/Senegal_River.private|Senegal_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal/Senegal_River.personal|Senegal_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal/Senegal_River.secret|Senegal_River.secret]] 
+

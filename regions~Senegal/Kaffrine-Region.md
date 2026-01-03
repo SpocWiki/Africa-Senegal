@@ -40,17 +40,17 @@ markerFolder: ./Kaffrine/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kaffrine-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region|Kaffrine-Region]] 
 
-### #is_/same_as :: [Kaffrine-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.public|Kaffrine-Region.public]] 
 
-### #is_/same_as :: [Kaffrine-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.internal|Kaffrine-Region.internal]] 
 
-### #is_/same_as :: [Kaffrine-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.protect|Kaffrine-Region.protect]] 
 
-### #is_/same_as :: [Kaffrine-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.private|Kaffrine-Region.private]] 
 
-### #is_/same_as :: [Kaffrine-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.personal|Kaffrine-Region.personal]] 
 
-### #is_/same_as :: [Kaffrine-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kaffrine-Region.secret|Kaffrine-Region.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Saint-Louis/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint-Louis-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region|Saint-Louis-Region]] 
 
-### #is_/same_as :: [Saint-Louis-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.public|Saint-Louis-Region.public]] 
 
-### #is_/same_as :: [Saint-Louis-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.internal|Saint-Louis-Region.internal]] 
 
-### #is_/same_as :: [Saint-Louis-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.protect|Saint-Louis-Region.protect]] 
 
-### #is_/same_as :: [Saint-Louis-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.private|Saint-Louis-Region.private]] 
 
-### #is_/same_as :: [Saint-Louis-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.personal|Saint-Louis-Region.personal]] 
 
-### #is_/same_as :: [Saint-Louis-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Saint-Louis-Region.secret|Saint-Louis-Region.secret]] 
 

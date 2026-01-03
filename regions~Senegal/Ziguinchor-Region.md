@@ -40,17 +40,17 @@ markerFolder: ./Ziguinchor/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ziguinchor-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region|Ziguinchor-Region]] 
 
-### #is_/same_as :: [Ziguinchor-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.public|Ziguinchor-Region.public]] 
 
-### #is_/same_as :: [Ziguinchor-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.internal|Ziguinchor-Region.internal]] 
 
-### #is_/same_as :: [Ziguinchor-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.protect|Ziguinchor-Region.protect]] 
 
-### #is_/same_as :: [Ziguinchor-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.private|Ziguinchor-Region.private]] 
 
-### #is_/same_as :: [Ziguinchor-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.personal|Ziguinchor-Region.personal]] 
 
-### #is_/same_as :: [Ziguinchor-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Ziguinchor-Region.secret|Ziguinchor-Region.secret]] 
 

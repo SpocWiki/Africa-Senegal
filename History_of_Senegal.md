@@ -24,3 +24,20 @@ Commons_category: History of Senegal
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Senegal) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal/History_of_Senegal|History_of_Senegal]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal/History_of_Senegal.public|History_of_Senegal.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal/History_of_Senegal.internal|History_of_Senegal.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal/History_of_Senegal.protect|History_of_Senegal.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal/History_of_Senegal.private|History_of_Senegal.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal/History_of_Senegal.personal|History_of_Senegal.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal/History_of_Senegal.secret|History_of_Senegal.secret]] 
+

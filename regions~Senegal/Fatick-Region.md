@@ -40,17 +40,17 @@ markerFolder: ./Fatick/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fatick-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region|Fatick-Region]] 
 
-### #is_/same_as :: [Fatick-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.public|Fatick-Region.public]] 
 
-### #is_/same_as :: [Fatick-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.internal|Fatick-Region.internal]] 
 
-### #is_/same_as :: [Fatick-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.protect|Fatick-Region.protect]] 
 
-### #is_/same_as :: [Fatick-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.private|Fatick-Region.private]] 
 
-### #is_/same_as :: [Fatick-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.personal|Fatick-Region.personal]] 
 
-### #is_/same_as :: [Fatick-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Fatick-Region.secret|Fatick-Region.secret]] 
 

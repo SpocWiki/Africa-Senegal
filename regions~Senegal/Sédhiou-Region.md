@@ -40,17 +40,17 @@ markerFolder: ./Sédhiou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sédhiou-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region|Sédhiou-Region]] 
 
-### #is_/same_as :: [Sédhiou-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.public|Sédhiou-Region.public]] 
 
-### #is_/same_as :: [Sédhiou-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.internal|Sédhiou-Region.internal]] 
 
-### #is_/same_as :: [Sédhiou-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.protect|Sédhiou-Region.protect]] 
 
-### #is_/same_as :: [Sédhiou-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.private|Sédhiou-Region.private]] 
 
-### #is_/same_as :: [Sédhiou-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.personal|Sédhiou-Region.personal]] 
 
-### #is_/same_as :: [Sédhiou-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Sédhiou-Region.secret|Sédhiou-Region.secret]] 
 

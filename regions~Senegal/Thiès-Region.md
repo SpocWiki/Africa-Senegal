@@ -40,17 +40,17 @@ markerFolder: ./Thiès/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thiès-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region|Thiès-Region]] 
 
-### #is_/same_as :: [Thiès-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.public|Thiès-Region.public]] 
 
-### #is_/same_as :: [Thiès-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.internal|Thiès-Region.internal]] 
 
-### #is_/same_as :: [Thiès-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.protect|Thiès-Region.protect]] 
 
-### #is_/same_as :: [Thiès-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.private|Thiès-Region.private]] 
 
-### #is_/same_as :: [Thiès-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.personal|Thiès-Region.personal]] 
 
-### #is_/same_as :: [Thiès-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Thiès-Region.secret|Thiès-Region.secret]] 
 

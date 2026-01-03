@@ -40,17 +40,17 @@ markerFolder: ./Kédougou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kédougou-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region|Kédougou-Region]] 
 
-### #is_/same_as :: [Kédougou-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.public|Kédougou-Region.public]] 
 
-### #is_/same_as :: [Kédougou-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.internal|Kédougou-Region.internal]] 
 
-### #is_/same_as :: [Kédougou-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.protect|Kédougou-Region.protect]] 
 
-### #is_/same_as :: [Kédougou-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.private|Kédougou-Region.private]] 
 
-### #is_/same_as :: [Kédougou-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.personal|Kédougou-Region.personal]] 
 
-### #is_/same_as :: [Kédougou-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Kédougou-Region.secret|Kédougou-Region.secret]] 
 

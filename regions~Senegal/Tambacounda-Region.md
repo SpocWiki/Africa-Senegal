@@ -40,17 +40,17 @@ markerFolder: ./Tambacounda/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tambacounda-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region|Tambacounda-Region]] 
 
-### #is_/same_as :: [Tambacounda-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.public|Tambacounda-Region.public]] 
 
-### #is_/same_as :: [Tambacounda-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.internal|Tambacounda-Region.internal]] 
 
-### #is_/same_as :: [Tambacounda-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.protect|Tambacounda-Region.protect]] 
 
-### #is_/same_as :: [Tambacounda-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.private|Tambacounda-Region.private]] 
 
-### #is_/same_as :: [Tambacounda-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.personal|Tambacounda-Region.personal]] 
 
-### #is_/same_as :: [Tambacounda-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Tambacounda-Region.secret|Tambacounda-Region.secret]] 
 

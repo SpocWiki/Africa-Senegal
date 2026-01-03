@@ -40,17 +40,17 @@ markerFolder: ./Matam/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Matam-Region](/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region|Matam-Region]] 
 
-### #is_/same_as :: [Matam-Region.public](/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.public|Matam-Region.public]] 
 
-### #is_/same_as :: [Matam-Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.internal|Matam-Region.internal]] 
 
-### #is_/same_as :: [Matam-Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.protect|Matam-Region.protect]] 
 
-### #is_/same_as :: [Matam-Region.private](/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.private|Matam-Region.private]] 
 
-### #is_/same_as :: [Matam-Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.personal|Matam-Region.personal]] 
 
-### #is_/same_as :: [Matam-Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal/regions~Senegal/Matam-Region.secret|Matam-Region.secret]] 
 
