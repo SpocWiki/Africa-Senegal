@@ -2,10 +2,10 @@
 aliases:
   - history of Senegal
 has_id_wikidata: Q1151513
-part_of: "[[_Standards/WikiData/WD~history_of_Africa,149813]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Senegal,1041]]"
-country: "[[_Standards/WikiData/WD~Senegal,1041]]"
+part_of: "[[_Standards/WikiData/WD~history_of_Africa,149813|WD~history_of_Africa,149813]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Senegal,1041|WD~Senegal,1041]]"
+country: "[[_Standards/WikiData/WD~Senegal,1041|WD~Senegal,1041]]"
 Dewey_Decimal_Classification: "966.3"
 Commons_category: History of Senegal
 ---

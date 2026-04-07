@@ -5,28 +5,28 @@ coordinate_location:
   - Point(-10.8302 13.8144)
   - Point(-16.508611111 15.966666666)
 tributary:
-  - "[[_Standards/WikiData/WD~Bafing_River,180558]]"
-  - "[[_Standards/WikiData/WD~Bakoy_River,789056]]"
-  - "[[_Standards/WikiData/WD~Karakoro_River,846045]]"
-  - "[[_Standards/WikiData/WD~Falémé_River,995969]]"
-  - "[[_Standards/WikiData/WD~Gorgol_River,2679286]]"
-  - "[[_Standards/WikiData/WD~Kolinbiné_River,4785960]]"
-  - "[[_Standards/WikiData/WD~Doué_River,19759090]]"
+  - "[[_Standards/WikiData/WD~Bafing_River,180558|WD~Bafing_River,180558]]"
+  - "[[_Standards/WikiData/WD~Bakoy_River,789056|WD~Bakoy_River,789056]]"
+  - "[[_Standards/WikiData/WD~Karakoro_River,846045|WD~Karakoro_River,846045]]"
+  - "[[_Standards/WikiData/WD~Falémé_River,995969|WD~Falémé_River,995969]]"
+  - "[[_Standards/WikiData/WD~Gorgol_River,2679286|WD~Gorgol_River,2679286]]"
+  - "[[_Standards/WikiData/WD~Kolinbiné_River,4785960|WD~Kolinbiné_River,4785960]]"
+  - "[[_Standards/WikiData/WD~Doué_River,19759090|WD~Doué_River,19759090]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-created_by_dam: "[[_Standards/WikiData/WD~Diama_Dam,2885103]]"
-drainage_basin: "[[_Standards/WikiData/WD~Senegal_River_basin,46508021]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+created_by_dam: "[[_Standards/WikiData/WD~Diama_Dam,2885103|WD~Diama_Dam,2885103]]"
+drainage_basin: "[[_Standards/WikiData/WD~Senegal_River_basin,46508021|WD~Senegal_River_basin,46508021]]"
 country:
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-  - "[[_Standards/WikiData/WD~Senegal,1041]]"
-basin_country: "[[_Standards/WikiData/WD~Guinea,1006]]"
-different_from: "[[_Standards/WikiData/WD~Senegal,1041]]"
-instance_of: "[[_Standards/WikiData/WD~river,4022]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+  - "[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]"
+  - "[[_Standards/WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]"
+  - "[[_Standards/WikiData/WD~Senegal,1041|WD~Senegal,1041]]"
+basin_country: "[[_Standards/WikiData/WD~Guinea,1006|WD~Guinea,1006]]"
+different_from: "[[_Standards/WikiData/WD~Senegal,1041|WD~Senegal,1041]]"
+instance_of: "[[_Standards/WikiData/WD~river,4022|WD~river,4022]]"
+continent: "[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]"
 elevation_above_sea_level: 23
 discharge: 640
 length: 1050
